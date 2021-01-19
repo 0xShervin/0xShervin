@@ -17,14 +17,13 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning coding, developing and ML.
 
-## 🔧 Technologies & Tools
+## &#x1f4c8; GitHub Stats
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=sheryBro&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&theme=gruvbox" alt="sheryBro's GitHub Stats" />
 
-## &#x1f4c8; GitHub Stats
+## 🔧 Technologies & Tools
 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
 
