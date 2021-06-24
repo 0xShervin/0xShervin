@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 I’m currently learning coding, developing and ML.
+- 🌱 I’m currently learning coding, programming and ML.
 
 ## &#x1f4c8; GitHub Stats
 
