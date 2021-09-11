@@ -1,4 +1,4 @@
-### Hi there <img src="https://raw.githubusercontent.com/sheryBro/sheryBro/main/wave.gif" width="30px">
+### Hi there <img src="https://raw.githubusercontent.com/rollupcomedy/rollupcomedy/main/wave.gif" width="30px">
 
 <!--
 **sheryBro/sheryBro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
