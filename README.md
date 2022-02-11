@@ -1,4 +1,4 @@
-### Hi there <img src="https://raw.githubusercontent.com/rollupcomedy/rollupcomedy/main/wave.gif" width="30px">
+### Hi there <img src="https://raw.githubusercontent.com/0xShervin/0xShervin/main/wave.gif" width="30px">
 
 <!--
 **rollupcomedy/rollupcomedy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ## &#x1f4c8; GitHub Stats
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=rollupcomedy&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&theme=gruvbox" alt="rollupcomedy's GitHub Stats" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=0xShervin&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&theme=gruvbox" alt="0xShervin's GitHub Stats" />
 
 ## 🔧 Technologies & Tools
 
